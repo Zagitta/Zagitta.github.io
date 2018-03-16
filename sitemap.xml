@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://h4cker.fun/tag/design/</loc>
+<lastmod>2018-03-16T20:47:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://h4cker.fun/tag/jekyll/</loc>
+<lastmod>2018-03-16T20:47:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://h4cker.fun/tag/web/</loc>
+<lastmod>2018-03-16T20:47:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://h4cker.fun/posts/hello-world</loc>
+<lastmod>2018-03-16T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://h4cker.fun/about</loc>
+</url>
+<url>
+<loc>https://h4cker.fun/</loc>
+</url>
+</urlset>
